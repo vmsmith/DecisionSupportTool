@@ -25,5 +25,7 @@ Second, there are two possible *states of nature*. These are things the farmer c
 The farmer begins by organizing the courses of action and the states of nature in a 2 x 2 matrix:
 
 <table>
-  <tr><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
+  <tr><td>Plant Soybeans</td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
+  <tr><td>Plant Wheat</td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
 </table>
