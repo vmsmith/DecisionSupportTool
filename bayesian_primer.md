@@ -1,6 +1,6 @@
 
 
-![Bayes's Theorem](./graphics/BayesTheorem.gif)
+![Bayes's Theorem](./graphics/BayesTheorem1.gif)
 
 
 <table>
