@@ -40,6 +40,12 @@ There are four possible outcomes, or payoffs, and the farmer's next task is to i
 
 **Payoff 4:** Farmer plants wheat and there is a trade war. The farmer thinks he would make money in this scenario, only not as much since many other former soybean farmers would probably also be planting wheat. In this scenario the farmer thinks he would make $500 an acre.
 
+Now the farmer can fill in his matrix:
 
+<table>
+  <tr><td></td><td>No Trade War</td><td>Trade War</td></tr>
+  <tr><td>Plant Soybeans</td>+$1,500<td></td><td>-$750</td></tr>
+  <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
+</table> 
 
 
