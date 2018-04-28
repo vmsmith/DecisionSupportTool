@@ -30,3 +30,5 @@
 ![Bayes's Theorem](./graphics/BayesTheorem6.gif)
 
 ![Bayes's Theorem](./graphics/BayesTheorem7.gif)
+
+![Bayes's Theorem](./graphics/BayesTheorem8.gif)
