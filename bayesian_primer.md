@@ -1,5 +1,7 @@
 
 
+![Bayes's Theorem](./graphics/Bayes Theorem.gif)
+
 
 <table>
   <tr><td></td><td>Boy</td><td>Girl</td></tr>
