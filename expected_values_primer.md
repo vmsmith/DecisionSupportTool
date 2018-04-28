@@ -73,5 +73,8 @@ The final step is to add the products across the rows to get the EVs:
 <table>
   <tr><td></td><td>No Trade War<p>&alpha; = 0.6</td><td>Trade War<p>1 - &alpha; = 0.4</td><td>EV</td></tr>
   <tr><td>Plant Soybeans</td><td>+$1,500 * 0.6 =<p>+$900</td><td>-$750 * 0.4 = <p>-$300</td><td>+$600</td></tr>
-  <tr><td>Plant Wheat</td><td>+$1,000 * 0.6 = <p>+$600</td><td>+$500 * 0.4 = <p>$200</td><td>+$800</td></tr>
+  <tr><td>Plant Wheat</td><td>+$1,000 * 0.6 = <p>+$600</td><td>+$500 * 0.4 = <p>+$200</td><td>+$800</td></tr>
 </table> 
+
+Given the farmer's assumptions about payoffs and probabilities, the best choice is to plant wheat because the EV for wheat is $200 greater than the EV for soybeans.
+
