@@ -65,5 +65,5 @@ Next, the farmer multiplies the probabilities associated with each state of natu
 <table>
   <tr><td></td><td>No Trade War<p>&alpha; = 0.6</td><td>Trade War<p>1 - &alpha; = 0.4</td></tr>
   <tr><td>Plant Soybeans</td><td>+$1,500 * 0.6 =<p>+$900</td><td>-$750 * 0.4 = <p>-$300</td></tr>
-  <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
+  <tr><td>Plant Wheat</td><td>+$1,000 * 0.6 = <p>+$600</td><td>+$500 * 0.4 = <p>$200</td></tr>
 </table> 
