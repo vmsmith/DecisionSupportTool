@@ -76,5 +76,5 @@ The final step is to add the products across the rows to get the EVs:
   <tr><td>Plant Wheat</td><td>+$900 * 0.6 = <p>+$540</td><td>+$500 * 0.4 = <p>+$200</td><td>+$740</td></tr>
 </table> 
 
-Given the farmer's assumptions about payoffs and probabilities, the best choice is to plant wheat because the EV per acre for wheat is $140 greater than the EV for soybeans.
+Given the farmer's assumptions about payoffs and probabilities, the best choice is to plant wheat because the EV per acre for wheat is $140 greater than the EV per acre for soybeans.
 
