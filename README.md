@@ -14,3 +14,16 @@ The project will proceed in two phases:
 
 #### Background  
 
+The 
+
+Warren Buffett - expected values  
+
+Charlie Munger - probabilities  
+
+Nassim Nicholas Taleb -  
+
+Nate Silver -  
+
+Annie Duke -  
+
+
