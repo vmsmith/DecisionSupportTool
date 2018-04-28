@@ -59,3 +59,11 @@ The farmer eventually decides that the probability, &alpha;, of no trade war is 
   <tr><td>Plant Soybeans</td><td>+$1,500</td><td>-$750</td></tr>
   <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
 </table> 
+
+Next, the farmer multiplies the probabilities associated with each state of nature times the payoffs in that column:
+
+<table>
+  <tr><td></td><td>No Trade War<p>&alpha; = 0.6</td><td>Trade War<p>1 - &alpha; = 0.4</td></tr>
+  <tr><td>Plant Soybeans</td><td>+$1,500 * 0.6 =<p>+$900</td><td>-$750 * 0.4 = <p>-$300</td></tr>
+  <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
+</table> 
