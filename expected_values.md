@@ -48,4 +48,14 @@ Now the farmer can fill in his matrix:
   <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
 </table> 
 
+The next step in the process is to determine the probabilities of the two states of nature.
 
+The farmer reads all he can on the topic, he writes to his two Senators requesting their views, he attends a town hall meeting with his Congressional representative to discuss it, he meets with the local Department of Agriculture people, and he discusses it vigorously with his fellow farmers.
+
+The farmer eventually decides that the probability, &alpha;, of no trade war is 0.40. Therefore, the probability that there *is* a trade war is 1 - &alpha;, or 0.6. The decision matrix now looks like this:
+
+<table>
+  <tr><td></td><td>No Trade War<p>&alpha; = 0.6</td><td>Trade War<p>1 - &alpha; = 0.4</td></tr>
+  <tr><td>Plant Soybeans</td><td>+$1,500</td><td>-$750</td></tr>
+  <tr><td>Plant Wheat</td><td>+$1,000</td><td>+$500</td></tr>
+</table> 
