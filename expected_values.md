@@ -1,4 +1,4 @@
-[README]()
+[README](https://github.com/vmsmith/DecisionSupportTool/blob/master/README.md)
 
 ### Expected Values (EV)  
 
