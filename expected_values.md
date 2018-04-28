@@ -26,6 +26,6 @@ The farmer begins by organizing the courses of action and the states of nature i
 
 <table>
   <tr><td></td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
-  <tr><td>Plant Soybeans</td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
-  <tr><td>Plant Wheat</td><td>No Trade War</td><td>Trade War</td><td>EV</td></tr>
+  <tr><td>Plant Soybeans</td><td></td><td></td><td></td></tr>
+  <tr><td>Plant Wheat</td><td></td><td></td><td></td></tr>
 </table>
