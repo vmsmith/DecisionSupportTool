@@ -2,7 +2,7 @@
 
 ![Bayes's Theorem](./graphics/BayesTheorem1.gif)
 
-<img align="center" src="./graphics/BayesTheorem1" alt="Fail">
+<img align="center" src="./graphics/BayesTheorem1.gif" alt="Fail">
 
 <table>
   <tr><td></td><td>Boy</td><td>Girl</td></tr>
